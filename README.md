@@ -5,7 +5,7 @@ https://arxiv.org/pdf/1810.06394.pdf
 #Multi-Agent Reinforcement Learning  
 1.IQL-MultiAgent Cooperation and Competition with Deep Reinforcement Learning  
 https://arxiv.org/pdf/1511.08779.pdf    
-2.Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning   
+2.Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning(可变状态空间)   
 https://arxiv.org/pdf/2003.10423.pdf  
 
 #AGV   
