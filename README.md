@@ -10,6 +10,10 @@ https://arxiv.org/pdf/2003.10423.pdf
 3.Deep reinforcement learning in large discrete action spaces(可变动作空间)   
 https://arxiv.org/pdf/1512.07679.pdf   
 
+#Reinforcement Learning     
+1.Rainbow: Combining Improvements in Deep Reinforcement Learning(rainbowDQN)     
+https://arxiv.org/pdf/1710.02298.pdf     
+
 #AGV   
 1.An Improved Acceleration Method Based on Multi-Agent System for AGVs Conflict-Free Path Planning in Automated Terminals   
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9311130
